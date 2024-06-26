@@ -1,0 +1,58 @@
+<!-- activity_next.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@android:color/white">
+
+    <TextView
+        android:id="@+id/Nothing"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="未分组"
+        android:textSize="24sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:background="@drawable/selector_textview_background"
+        android:padding="16dp"
+        android:gravity="center"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/Family"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="家庭"
+        android:textSize="24sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:background="@drawable/selector_textview_background"
+        android:padding="16dp"
+        android:gravity="center"
+        android:layout_below="@id/Nothing"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/Friends"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="朋友"
+        android:textSize="24sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:background="@drawable/selector_textview_background"
+        android:padding="16dp"
+        android:gravity="center"
+        android:layout_below="@id/Family"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/Work"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="工作"
+        android:textSize="24sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:background="@drawable/selector_textview_background"
+        android:padding="16dp"
+        android:gravity="center"
+        android:layout_below="@id/Friends"/>
+
+</RelativeLayout>

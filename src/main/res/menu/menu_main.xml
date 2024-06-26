@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.manojd.myapplication.activity.MainActivity">
+    <item
+        android:id="@+id/action_add"
+        android:orderInCategory="100"
+        android:title="添加"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_delete_all"
+        android:orderInCategory="100"
+        android:title="清空通讯录"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_eixt"
+        android:orderInCategory="100"
+        android:title="退出系统"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_export"
+        android:orderInCategory="100"
+        android:title="导出"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_import"
+        android:orderInCategory="100"
+        android:title="导入"
+        app:showAsAction="never" />
+</menu>
