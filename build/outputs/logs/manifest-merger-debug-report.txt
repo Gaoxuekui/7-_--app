@@ -1,0 +1,210 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:2:1-68:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\9d47160d76d3315dc4e6a0a1ed9f828e\transformed\design-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\3e13bfddc0edf798d94d6af2fc7e27dc\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\d86a29f8a2cdd3cf6b2fb5e888a6ee1c\transformed\cardview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\e42c352519377d65a7f5a5c9a73f3852\transformed\constraint-layout-1.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\8ecece682f064fea9117938691b96d36\transformed\circleimageview-2.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\c4f0d2f9d46bccc8a869feb9c9e3ba52\transformed\support-v4-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\6579bbbe33823e0653834ab0cb0852ff\transformed\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\e8a36eab256a47f5d94829261e175798\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\fbfb05e1d9c358f86be9aaf228278fea\transformed\recyclerview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\2103498d2acdd7b7115617e0a0ca8d35\transformed\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\20e40346133a63aeef6a221b1791010f\transformed\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\ec039d941b64e4d0e4270a4a93ea22a9\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\1d4003e291e539348d809241622c188e\transformed\transition-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\2bf348d7865d1ef7749a890290be8a51\transformed\support-media-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\1719857c8308e8331929cb8e1ef956be\transformed\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\89a41922bdf4e9a6197471cacc40c696\transformed\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\8fcc3d958ea5a90112d1661d3ceb8543\transformed\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\c0729cef5df22694b77cb9114884c54b\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\50791c30932e67e25278ba8fcbe0fa5e\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:2:1-68:12
+	package
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:2:1-68:12
+		INJECTED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:2:1-68:12
+		INJECTED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:5:22-66
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.CAMERA
+ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:8:5-64
+	android:name
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:8:22-62
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.SEND_SMS
+ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:10:22-64
+uses-feature#android.hardware.Camera.any
+ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:12:5-14:34
+	android:required
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:14:9-32
+	android:name
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:13:9-51
+uses-feature#android.hardware.Camera.autofocus
+ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:15:5-17:35
+	android:required
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:16:9-57
+uses-feature#android.hardware.telephony
+ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:19:9-50
+uses-feature#android.hardware.camera
+ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:22:9-47
+application
+ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:26:5-66:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\e42c352519377d65a7f5a5c9a73f3852\transformed\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\e42c352519377d65a7f5a5c9a73f3852\transformed\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\8ecece682f064fea9117938691b96d36\transformed\circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\8ecece682f064fea9117938691b96d36\transformed\circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:31:9-35
+	android:label
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:29:9-41
+	android:roundIcon
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:30:9-54
+	android:icon
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:28:9-43
+	android:allowBackup
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:27:9-35
+	android:theme
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:32:9-40
+activity#com.example.manojd.myapplication.activity.MainActivity
+ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:35:9-41:20
+	android:name
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:35:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:39:27-74
+activity#com.example.manojd.myapplication.activity.AddActivity
+ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:42:9-44:37
+	android:label
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:44:13-34
+	android:name
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:43:13-49
+activity#com.example.manojd.myapplication.activity.DetailsActivity
+ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:45:9-48:66
+	android:parentActivityName
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:48:13-64
+	android:label
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:47:13-34
+	android:name
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:46:13-53
+activity#com.example.manojd.myapplication.activity.UpdateActivity
+ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:49:9-51:36
+	android:label
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:51:13-33
+	android:name
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:50:13-52
+activity#com.example.manojd.myapplication.activity.SelectActivity
+ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:53:9-57:15
+	android:parentActivityName
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:56:13-64
+	android:label
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:55:13-31
+	android:name
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:54:13-52
+activity#com.example.manojd.myapplication.activity.SelectDetailsActivity
+ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:58:9-61:68
+	android:parentActivityName
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:61:13-66
+	android:label
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:60:13-33
+	android:name
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:59:13-59
+uses-sdk
+INJECTED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\9d47160d76d3315dc4e6a0a1ed9f828e\transformed\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\9d47160d76d3315dc4e6a0a1ed9f828e\transformed\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\3e13bfddc0edf798d94d6af2fc7e27dc\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\3e13bfddc0edf798d94d6af2fc7e27dc\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\d86a29f8a2cdd3cf6b2fb5e888a6ee1c\transformed\cardview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\d86a29f8a2cdd3cf6b2fb5e888a6ee1c\transformed\cardview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\e42c352519377d65a7f5a5c9a73f3852\transformed\constraint-layout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\e42c352519377d65a7f5a5c9a73f3852\transformed\constraint-layout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\8ecece682f064fea9117938691b96d36\transformed\circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\8ecece682f064fea9117938691b96d36\transformed\circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\c4f0d2f9d46bccc8a869feb9c9e3ba52\transformed\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\c4f0d2f9d46bccc8a869feb9c9e3ba52\transformed\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\6579bbbe33823e0653834ab0cb0852ff\transformed\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\6579bbbe33823e0653834ab0cb0852ff\transformed\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\e8a36eab256a47f5d94829261e175798\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\e8a36eab256a47f5d94829261e175798\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\fbfb05e1d9c358f86be9aaf228278fea\transformed\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\fbfb05e1d9c358f86be9aaf228278fea\transformed\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\2103498d2acdd7b7115617e0a0ca8d35\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\2103498d2acdd7b7115617e0a0ca8d35\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\20e40346133a63aeef6a221b1791010f\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\20e40346133a63aeef6a221b1791010f\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\ec039d941b64e4d0e4270a4a93ea22a9\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\ec039d941b64e4d0e4270a4a93ea22a9\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\1d4003e291e539348d809241622c188e\transformed\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\1d4003e291e539348d809241622c188e\transformed\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\2bf348d7865d1ef7749a890290be8a51\transformed\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\2bf348d7865d1ef7749a890290be8a51\transformed\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\1719857c8308e8331929cb8e1ef956be\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\HUAWEI\.gradle\caches\transforms-3\1719857c8308e8331929cb8e1ef956be\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\89a41922bdf4e9a6197471cacc40c696\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\89a41922bdf4e9a6197471cacc40c696\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\8fcc3d958ea5a90112d1661d3ceb8543\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\8fcc3d958ea5a90112d1661d3ceb8543\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\c0729cef5df22694b77cb9114884c54b\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\c0729cef5df22694b77cb9114884c54b\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\50791c30932e67e25278ba8fcbe0fa5e\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HUAWEI\.gradle\caches\transforms-3\50791c30932e67e25278ba8fcbe0fa5e\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml
