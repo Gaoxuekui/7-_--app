@@ -1,0 +1,125 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.manojd.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CALL_PHONE" />
+11-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:5:5-68
+11-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:5:22-66
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:6:5-79
+12-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:7:5-80
+13-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:8:5-64
+14-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:8:22-62
+15    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+15-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:9:5-74
+15-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:9:22-72
+16    <uses-permission android:name="android.permission.SEND_SMS" />
+16-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:10:5-66
+16-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:10:22-64
+17
+18    <uses-feature
+18-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:12:5-14:34
+19        android:name="android.hardware.Camera.any"
+19-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:13:9-51
+20        android:required="true" />
+20-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:14:9-32
+21    <uses-feature
+21-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:15:5-17:35
+22        android:name="android.hardware.Camera.autofocus"
+22-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:16:9-57
+23        android:required="false" />
+23-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:17:9-33
+24    <uses-feature
+24-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:18:5-20:36
+25        android:name="android.hardware.telephony"
+25-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:19:9-50
+26        android:required="false" />
+26-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:20:9-33
+27    <uses-feature
+27-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:21:5-23:36
+28        android:name="android.hardware.camera"
+28-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:22:9-47
+29        android:required="false" />
+29-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:23:9-33
+30
+31    <application
+31-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:26:5-66:19
+32        android:allowBackup="true"
+32-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:27:9-35
+33        android:debuggable="true"
+34        android:icon="@mipmap/ic_launcher"
+34-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:28:9-43
+35        android:label="@string/app_name"
+35-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:29:9-41
+36        android:roundIcon="@mipmap/ic_launcher_round"
+36-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:30:9-54
+37        android:supportsRtl="true"
+37-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:31:9-35
+38        android:testOnly="true"
+39        android:theme="@style/AppTheme" >
+39-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:32:9-40
+40        <activity android:name="com.example.manojd.myapplication.activity.MainActivity" >
+40-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:35:9-41:20
+40-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:35:19-56
+41            <intent-filter>
+41-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:36:13-40:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:37:17-69
+42-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:37:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:39:17-77
+44-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:39:27-74
+45            </intent-filter>
+46        </activity>
+47        <activity
+47-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:42:9-44:37
+48            android:name="com.example.manojd.myapplication.activity.AddActivity"
+48-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:43:13-49
+49            android:label="添加联系人" />
+49-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:44:13-34
+50        <activity
+50-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:45:9-48:66
+51            android:name="com.example.manojd.myapplication.activity.DetailsActivity"
+51-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:46:13-53
+52            android:label="联系人详情"
+52-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:47:13-34
+53            android:parentActivityName="com.example.manojd.myapplication.activity.MainActivity" />
+53-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:48:13-64
+54        <activity
+54-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:49:9-51:36
+55            android:name="com.example.manojd.myapplication.activity.UpdateActivity"
+55-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:50:13-52
+56            android:label="修改信息" />
+56-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:51:13-33
+57        <activity
+57-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:53:9-57:15
+58            android:name="com.example.manojd.myapplication.activity.SelectActivity"
+58-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:54:13-52
+59            android:label="分组"
+59-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:55:13-31
+60            android:parentActivityName="com.example.manojd.myapplication.activity.MainActivity" />
+60-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:56:13-64
+61        <activity
+61-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:58:9-61:68
+62            android:name="com.example.manojd.myapplication.activity.SelectDetailsActivity"
+62-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:59:13-59
+63            android:label="具体分组"
+63-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:60:13-33
+64            android:parentActivityName="com.example.manojd.myapplication.activity.SelectActivity" />
+64-->E:\AndroidExperiment\Contact\app\src\main\AndroidManifest.xml:61:13-66
+65    </application>
+66
+67</manifest>
